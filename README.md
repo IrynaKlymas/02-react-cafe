@@ -1,2 +1,2 @@
-# 01-ts-basics
-Module 1. TypeScript Basics
+# 02-react-cafe
+Module 2. Components and condition
